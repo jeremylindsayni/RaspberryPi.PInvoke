@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace RaspberryPiCore
+namespace RaspberryPi_PInvoke
 {
     class Program
     {
